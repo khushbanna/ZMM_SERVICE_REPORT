@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION'
+define service ZMM_SERVICE_REPORT_DEF {
+  expose ZMM_SERVICE_REPORT_FINAL;
+}

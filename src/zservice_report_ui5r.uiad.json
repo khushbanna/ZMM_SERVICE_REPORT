@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Service",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zservicereport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_19A7C16994E1B688DAC98A5D3A8ACBA8BF544D56_TM",
+    "semanticObject": "zservicereport",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_19A7C16994E1B688DAC98A5D3A8ACBA8BF544D56_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Service",
+        "subtitle": "MM"
+      }
+    }
+  ]
+}
